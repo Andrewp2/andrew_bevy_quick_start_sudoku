@@ -1,5 +1,6 @@
 use bevy::prelude::*;
 
 fn main() {
-    App::new().run();
+    App::new()
+        .run();
 }
